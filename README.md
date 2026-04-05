@@ -7,3 +7,5 @@ A clean, responsive **Web App** built with **HTML, CSS, and JavaScript** that pr
 * Real-time Conversion:** Fetches the latest global exchange rates instantly.
 *Dynamic Flags: Automatically updates country flags based on the selected currency.
 * Responsive Design: Fully functional and aesthetically pleasing across all device sizes.
+
+  link : https://yashkumargupta16.github.io/exchange_rates/currency_converter/
